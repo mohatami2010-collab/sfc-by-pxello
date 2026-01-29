@@ -4,4 +4,4 @@
 
 
 <h2>NOTE:</h2>
-<h4>when downloading newer releases you get the previous ones in the same download in case you wanna see their code or edit them</h4>
+<h4>if the app doesn't work just make sure you download the api-ms-win-core to your device</h4>
